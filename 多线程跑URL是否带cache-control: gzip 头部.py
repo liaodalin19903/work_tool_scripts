@@ -11,7 +11,7 @@ logging.basicConfig(level=logging.WARNING,
                     filemode='w',
                     format='%(message)s')
 
-domain = "https://adsfs.heytapimage.com"
+domain = "https://adsfs.abc.com"
 
 
 def combine_full_url(path):
